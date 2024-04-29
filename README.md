@@ -1,3 +1,5 @@
+![A modern workspace setup with a computer showing movie data dashboards](Movie_Data_Analysis.webp)
+
 # Movie Data Analysis Project
 
 This project fetches movie reviews from The New York Times API and detailed movie data from The Movie Database (TMDB). It merges the data for comprehensive analysis, offering insights into movie trends, genres, languages, and production countries.
